@@ -1,0 +1,13 @@
+react-vite-tailwind-ts/
+│
+├── package.json
+├── tsconfig.json
+├── vite.config.ts
+├── index.html
+├── postcss.config.js
+├── tailwind.config.js
+├── src/
+│   ├── main.tsx
+│   ├── App.tsx
+│   └── index.css
+└── README.md
